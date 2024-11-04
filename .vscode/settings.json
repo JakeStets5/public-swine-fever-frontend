@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b9e05b7e-8b34-4447-8e84-5a25c33a7690/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/swine-fever-web-app",
+    "appService.deploySubpath": "."
+}
