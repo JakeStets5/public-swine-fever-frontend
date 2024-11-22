@@ -25,9 +25,7 @@ To install the necessary dependencies, run the following command in the project 
 `npm install`
 
 ## Usage
-**Note:** This repository is for reference only. If you'd like to run the code locally, please refer to the local version of the repository [here](https://github.com/JakeStets5/swine-fever-website-local) (placeholder for the link).
-
-**Note:** You will also need the local version of the backend app which will contain the database neccessary for the app to function. You can clone the backend repo [here](https://github.com/JakeStets5/swine-fever-backend-local) 
+**Note:** This repository is for reference only. 
 
 ### Steps to Submit a Test:
 1. **Sign In:** Users must sign in before they can submit a test. A login page is provided to authenticate users.
