@@ -43,4 +43,4 @@ To install the necessary dependencies, run the following command in the project 
 The web app interacts with various Azure services to submit test results and query the machine learning model. API calls require an active Azure subscription and appropriate access credentials, which are not included in this repository.
 
 ## Contribution
-Contributions are not encouraged in this repository due to the use of proprietary Azure services that require a subscription. If you'd like to experiment with the code or make changes, please clone the local version of the repository [here](https://github.com/JakeStets5/swine-fever-website-local).
+Contributions are not encouraged in this repository due to the use of proprietary Azure services that require a subscription.
