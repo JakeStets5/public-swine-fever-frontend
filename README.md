@@ -27,6 +27,8 @@ To install the necessary dependencies, run the following command in the project 
 ## Usage
 **Note:** This repository is for reference only. 
 
+**Note:** The backend is needed to operate the website. The backend code can be found [here](https://github.com/JakeStets5/public-swine-fever-backend)
+
 ### Steps to Submit a Test:
 1. **Sign In:** Users must sign in before they can submit a test. A login page is provided to authenticate users.
 2. **Select a City:** Use the dropdown menu to select the city from which the test is being submitted.
